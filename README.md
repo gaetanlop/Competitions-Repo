@@ -2,5 +2,6 @@
 
 * 03/03 : started feature engineering on 2 datatsets: season compact, tourney compact
 * 04/03 : finished feature engineering -> Simple training set created
+* 07/03 : built an inference pipeline and make one baseline submission
 
-Next time: build an inference pipeline + make one submission based on that inference pipeline
+Feature Engineering on detailed!
