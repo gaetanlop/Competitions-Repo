@@ -4,4 +4,4 @@
 * 04/03 : finished feature engineering -> Simple training set created
 * 07/03 : built an inference pipeline and make one baseline submission
 
-Feature Engineering on detailed!
+Wrong pipeline ! Check https://www.kaggle.com/svyatoslavsokolov/2021-ncaam-first-step-v-2 pipeline
