@@ -5,5 +5,6 @@
 * 07/03 : built an inference pipeline and make one baseline submission (baseline is broken)
 * 08/03 : reworked my baseline and make it work. Made one submission. Add rank feature.
 * 09/03 : implemented features of this website: https://thepowerrank.com/cbb-analytics/
+* 10/03 : built a KenPom scrapper from scratch using bs. Also created feature offensive efficiency
 
-Implement ranking offenssive point using kenpom scrapper + look at best solutions of past years
+=> create defensive efficiency
