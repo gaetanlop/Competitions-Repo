@@ -7,5 +7,6 @@
 * 09/03 : implemented features of this website: https://thepowerrank.com/cbb-analytics/
 * 10/03 : built a KenPom scrapper from scratch using bs. Also created feature offensive efficiency
 * 11/03 : build NCAAW pipeline + tried another way to increase the number of data points + hyperparameter tuning
+* 13/03 : NCAAW hyperparameter tuning
 
-=> Tried both ways to increase nb of winning matches + hyperparameter tuning on both.
+=> Only tuning for NCAAM XGBoost and LGBM. Before do feature selection
