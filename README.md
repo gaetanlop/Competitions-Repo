@@ -8,7 +8,8 @@
 * 10/03 : built a KenPom scrapper from scratch using bs. Also created feature offensive efficiency
 * 11/03 : build NCAAW pipeline + tried another way to increase the number of data points + hyperparameter tuning
 * 13/03 : NCAAW hyperparameter tuning
-* 14/03 : NCAAW worked on feature selection
+* 14/03 : NCAAW worked on feature selection, made the pipeline for 2021 predictions
+* 15/03 : Everything ready for woman
 
-=> Try xgboost + logistic regression
-=> Make a great pipeline for man
+
+=> Check man results (ncaam soon ready) + add kenpom data to the pipeline
