@@ -8,5 +8,7 @@
 * 10/03 : built a KenPom scrapper from scratch using bs. Also created feature offensive efficiency
 * 11/03 : build NCAAW pipeline + tried another way to increase the number of data points + hyperparameter tuning
 * 13/03 : NCAAW hyperparameter tuning
+* 14/03 : NCAAW worked on feature selection
 
-=> Only tuning for NCAAM XGBoost and LGBM. Before do feature selection
+=> Try xgboost + logistic regression
+=> Make a great pipeline for man
