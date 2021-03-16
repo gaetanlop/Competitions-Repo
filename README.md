@@ -11,3 +11,6 @@
 * 14/03 : NCAAW worked on feature selection, made the pipeline for 2021 predictions
 * 15/03 : Everything ready for woman
 * 16/03 : Everything ready for man. Just one notebook style in hyperparameter tuning. I scrapoped Kenpom data without leakage from 2011 to 2021.
+* 17/03 : Add another column to kenpom data: adj_em. It seems that it is the most important features. I also maid my conservative submission. I am crezting my aggressive submission mostly based on kenpom data.
+
+Tomorrow submit this aggressive submission + submit woman if possible.
