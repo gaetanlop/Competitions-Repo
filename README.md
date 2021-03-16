@@ -13,4 +13,5 @@
 * 16/03 : Everything ready for man. Just one notebook style in hyperparameter tuning. I scrapoped Kenpom data without leakage from 2011 to 2021.
 * 17/03 : Add another column to kenpom data: adj_em. It seems that it is the most important features. I also maid my conservative submission. I am crezting my aggressive submission mostly based on kenpom data.
 
+=> Check the two results ordinal rank and normal rank and submit the best one.
 Tomorrow submit this aggressive submission + submit woman if possible.
