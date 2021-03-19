@@ -14,8 +14,8 @@
 * 17/03 : Add another column to kenpom data: adj_em. It seems that it is the most important features. I also maid my conservative submission. I am crezting my aggressive submission mostly based on kenpom data
 * 18/03 : Create Spread notebook and tuned hyperparameters with optuna
 * 19/03 : Submit Spread for men competition + prepared spread for women competition. I also submitted women competition
+* 20/03 : Submit women spread competition
 
-Tomorrow check for updates in the men and women competition. + Submit women spread competition.
 
 
 
