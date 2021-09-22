@@ -1,5 +1,6 @@
 # NCAA-competition
 
+## Competition Overview
 * 03/03 : started feature engineering on 2 datatsets: season compact, seed 
 * 04/03 : finished feature engineering -> Simple training set created
 * 07/03 : built an inference pipeline and make one baseline submission (baseline is broken)
@@ -16,7 +17,10 @@
 * 19/03 : Submit Spread for men competition + prepared spread for women competition. I also submitted women competition
 * 20/03 : Submit women spread competition
 
+## Path to top 7%
 
 
-# Create a notebook with my innovative feature engineering ideas
+## Best solutions Overview
+
+
 
