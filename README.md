@@ -1,5 +1,6 @@
 # NCAA-competition
 https://www.kaggle.com/c/ncaaw-march-mania-2021
+
 ## Competition Overview
 * 03/03 : started feature engineering on 2 datatsets: season compact, seed 
 * 04/03 : finished feature engineering -> Simple training set created
@@ -18,7 +19,7 @@ https://www.kaggle.com/c/ncaaw-march-mania-2021
 * 20/03 : Submit women spread competition
 
 ## Path to top 7%
-
+I need to talk about the path to the top 7% and also the competition overview. What where we asked for  and everything.
 
 ## Best solutions Overview
 
