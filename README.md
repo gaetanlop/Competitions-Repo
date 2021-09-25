@@ -17,17 +17,17 @@ I decided to focus on the NCAAW Competition instead of the NCAAM because after l
 
 In January 2021, Kaggle had the amazing idea of creating month-long tabular playground to train our tabular data skillsets. The dataset used for this competition is synthetic, but based on real data and generated using CTGAN. 
 
-Why did I participate in this competition ?
+#### Why did I participate in this competition ?
 
 I knew that during my internships, I will have to work with gradient boosting algorithms. Therefore, I wanted to deep dive into the training of these models. During this competition, I learned how to tune their hyperparameters using Optuna and I also discovered a new way of training them to slightly improve their performance.
 
-How it works ?
+#### How it works ?
 
 * Train your best model
 * Decrease learning rate and train the model again
 * Decrease regularization params and retrain the model
 
-Explanations
+#### Explanations
 
 This strategy is mostly based on transfer learning (mostly used in neural networks). In transfer learning, we use a pretrained model and add a head to it. Moreover, we usually froze lower layers (the ones of the pretrained model) and train higher layers (those that we add to the pretrained model). This is exactly the case here:
 
@@ -38,6 +38,10 @@ After that, and in order to fight against overfitting, we decrease learning rate
 Once reducing the learning rate is not adding a significant improvement to our model, we should increase the complexity of our weak learners. Indeed, increasing weak learners complexity might increase their performance while also increasing their chance of overfitting. At inference time, we will have weak learners with high bias and low variance (weak learners from the pretrained model) and some which are slightly overfit (low bias- high variance). This is why we reduce the learning rate before adding overfitted weak learners (when we reduce learning rate, we basically reduce the contribution of these overfitted trees to final prediction).
 
 I tried many things in order to increase model compelxity and decrease regularization params. I found that the best thing to do is to increase number of leaves and decrease minimum child samples.
+
+#### Conclusion
+
+This strategy enabled me to go from 0.84198 mse to 0.84184 mse (in real life this strategy is useles, but in kaggle competitions even 1 thousandth can make a huge difference).
 
 # Riiid Answer Correctness (Top 9%)
 
