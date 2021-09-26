@@ -51,3 +51,4 @@ https://www.kaggle.com/c/riiid-test-answer-prediction
 
 Work in progress ...
 
+You can find the inference notebook in the folder Riiid.
