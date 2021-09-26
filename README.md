@@ -12,6 +12,7 @@ I started by reading a lot of blogs of basketball enthusiasts, then I tried to u
 I decided to focus on the NCAAW Competition instead of the NCAAM because after looking at the previous competitions, I saw that a lot of people where manipulating the predictions of their models based on their beliefs in the NCAAM competition. It was less the case in the NCAAW competition since less people look at women's basketball.
 
 # Tabular Playground Series February (Top 2%)
+https://www.kaggle.com/c/tabular-playground-series-feb-2021/overview
 
 ## Competition Overview
 
@@ -44,6 +45,7 @@ I tried many things in order to increase model compelxity and decrease regulariz
 This strategy enabled me to go from 0.84198 mse to 0.84184 mse (in real life this strategy is useles, but in kaggle competitions even 1 thousandth can make a huge difference).
 
 # Riiid Answer Correctness (Top 9%)
+https://www.kaggle.com/c/riiid-test-answer-prediction
 
 ## Competition Overview
 
